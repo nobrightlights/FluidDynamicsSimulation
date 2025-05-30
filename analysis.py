@@ -237,7 +237,6 @@ def animate_density(input, i, j, k, dt, path, dx):
     Each frame shows a scatter plot where the color represents the density.
     Parameters:
         input (np.ndarray):     4D array of density data (time, x, y, z).
-        source (list):          Coordinates of the point source in the grid
         i (str):                First axis to plot ('x', 'y', or 'z').
         j (str):                Second axis to plot ('x', 'y', or 'z').
         k (int):                Index along the third axis to take the slice from the input data.
