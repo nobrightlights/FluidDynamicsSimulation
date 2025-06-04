@@ -1,6 +1,6 @@
 # FluidDynamicsSimulation
 
-A 3D computational fluid dynamics (CFD) simulation framework for modeling fluid flow, and resulting concentration transport including diffusion with support for oscillating antennas (moving boundaries).
+A 3D computational fluid dynamics (CFD) simulation for modeling fluid flow, and resulting concentration transport including diffusion with support for oscillating antennas (moving boundaries).
 
 ## Overview
 
